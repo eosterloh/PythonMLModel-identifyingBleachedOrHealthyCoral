@@ -7,3 +7,17 @@ https://www.kaggle.com/datasets/aneeshdighe/corals-classification
 NOTE: Model prep only works if you have the correct file folders on your computer, which can be downloaded from the link above
 the model prep takes up to 40 minutes to run, which is why I attached the X_array and Y_array so you can skip this part
 The final project python file is how you run the 
+
+Packages needed: 
+# plotting imports
+numpy
+matplotlib
+os
+pandas
+# skimage/sklearn imports
+skimage
+sklearn
+# GUI imports
+tkinter
+threading
+time
