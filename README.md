@@ -9,15 +9,13 @@ the model prep takes up to 40 minutes to run, which is why I attached the X_arra
 The final project python file is how you run the 
 
 Packages needed: 
-# plotting imports
+
 numpy
 matplotlib
 os
 pandas
-# skimage/sklearn imports
 skimage
 sklearn
-# GUI imports
 tkinter
 threading
 time
